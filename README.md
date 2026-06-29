@@ -153,3 +153,4 @@ Please make sure to follow the CNCF code of conduct - [details here](https://git
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/11586/badge)](https://www.bestpractices.dev/projects/11586)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/HolmesGPT/holmesgpt/badge)](https://scorecard.dev/viewer/?uri=github.com/HolmesGPT/holmesgpt)
+
